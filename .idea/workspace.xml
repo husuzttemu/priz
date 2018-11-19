@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6c7264cb-5d6d-415a-9d12-3ffc683456d7" name="Default Changelist" comment="" />
+    <list default="true" id="6c7264cb-5d6d-415a-9d12-3ffc683456d7" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +44,25 @@
     <session id="1730046674">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+<<<<<<< HEAD
           <entry key="project.closed" value="1" />
+=======
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="py" value="10" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Python" value="10" />
+>>>>>>> e491ce53f7a1ccde4484e6f85bc37da960ba4a81
         </counts>
       </usages-collector>
     </session>
@@ -52,8 +72,13 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app.py">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="600">
               <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
+=======
+            <state relative-caret-position="60">
+              <caret line="4" column="31" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
+>>>>>>> e491ce53f7a1ccde4484e6f85bc37da960ba4a81
               <folding>
                 <element signature="e#19#58#0" expanded="true" />
               </folding>
@@ -64,8 +89,13 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/firstapp.py">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="-528">
               <caret line="9" selection-start-line="9" selection-end-line="9" />
+=======
+            <state relative-caret-position="75">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
+>>>>>>> e491ce53f7a1ccde4484e6f85bc37da960ba4a81
               <folding>
                 <element signature="e#18#33#0" expanded="true" />
               </folding>
@@ -85,8 +115,13 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/example.py">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="-34444">
               <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+=======
+            <state relative-caret-position="34485">
+              <caret line="2300" column="44" selection-start-line="2300" selection-start-column="44" selection-end-line="2300" selection-end-column="44" />
+>>>>>>> e491ce53f7a1ccde4484e6f85bc37da960ba4a81
               <folding>
                 <element signature="e#33#62#0" expanded="true" />
               </folding>
@@ -95,10 +130,26 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+<<<<<<< HEAD
         <entry file="file://$PROJECT_DIR$/search_engine/engine.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-769">
               <caret line="8" column="24" lean-forward="true" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
+=======
+        <entry file="file://$PROJECT_DIR$/locators/page_locators.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" selection-start-line="12" selection-end-line="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/search_engine/engine.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="20" column="68" selection-start-line="20" selection-start-column="68" selection-end-line="20" selection-end-column="68" />
+>>>>>>> e491ce53f7a1ccde4484e6f85bc37da960ba4a81
             </state>
           </provider>
         </entry>
@@ -132,9 +183,15 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="10" />
-    <option name="y" value="20" />
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="27" />
+    <option name="y" value="51" />
     <option name="width" value="1346" />
     <option name="height" value="688" />
   </component>
@@ -168,6 +225,8 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
@@ -200,6 +259,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/app.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
@@ -229,35 +289,53 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
+<<<<<<< HEAD
     <frame x="27" y="51" width="1346" height="688" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26037735" />
+=======
+    <frame x="10" y="23" width="1346" height="688" extended-state="0" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26037735" />
+>>>>>>> e491ce53f7a1ccde4484e6f85bc37da960ba4a81
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
+<<<<<<< HEAD
       <window_info anchor="bottom" id="Run" order="2" weight="0.32885906" />
+=======
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3295082" />
+>>>>>>> e491ce53f7a1ccde4484e6f85bc37da960ba4a81
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32885906" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="R Graphics" order="3" />
       <window_info anchor="right" id="R Packages" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="SciView" order="6" />
     </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$USER_HOME$/.PyCharmCE2018.2/system/python_stubs/-1718557316/builtins.py" />
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/parsers/product_parser.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
@@ -276,12 +354,19 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-34444">
           <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+=======
+    <entry file="file://$PROJECT_DIR$/app.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="31" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
+>>>>>>> e491ce53f7a1ccde4484e6f85bc37da960ba4a81
           <folding>
-            <element signature="e#33#62#0" expanded="true" />
+            <element signature="e#19#58#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/venv/pip-selfcheck.json">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -298,12 +383,28 @@
           <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
           <folding>
             <element signature="e#19#58#0" expanded="true" />
+=======
+    <entry file="file://$PROJECT_DIR$/parsers/product_parser.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/example.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34485">
+          <caret line="2300" column="44" selection-start-line="2300" selection-start-column="44" selection-end-line="2300" selection-end-column="44" />
+          <folding>
+            <element signature="e#33#62#0" expanded="true" />
+>>>>>>> e491ce53f7a1ccde4484e6f85bc37da960ba4a81
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/firstapp.py">
+    <entry file="file://$PROJECT_DIR$/locators/page_locators.py">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="-528">
           <caret line="9" selection-start-line="9" selection-end-line="9" />
           <folding>
@@ -312,5 +413,29 @@
         </state>
       </provider>
     </entry>
+=======
+        <state relative-caret-position="180">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/search_engine/engine.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="20" column="68" selection-start-line="20" selection-start-column="68" selection-end-line="20" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/firstapp.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="e#18#33#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+>>>>>>> e491ce53f7a1ccde4484e6f85bc37da960ba4a81
   </component>
 </project>
