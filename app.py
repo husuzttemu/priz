@@ -27,7 +27,7 @@ def parse_products(e):
 
 
 #Ana sayfadan ürün kategorilerini parse ederek gideceği sayfaları bulur.
-
+# Test isa
 
     #page_list = list(set([e.select_one('a').attrs['href'] for e in pages]))
     #print(page_list)
